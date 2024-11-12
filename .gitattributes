@@ -1,5 +1,5 @@
 *.sql linguist-language=SQL
 
 git add .gitattributes
-git commit -m "add .gitattributes to detect SQL files"
+git commit -m "Add .gitattributes to detect SQL files"
 git push
